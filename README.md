@@ -8,6 +8,7 @@ An unofficial NeoForge compatibility add-on that makes [Let's Do] Vinery wine pr
 
 - Adds real pumpable fluids for Vinery apple juice and grapejuice variants.
 - Adds Create Mechanical Press + Basin recipes for Vinery grapes into juice.
+- Makes Create Mechanical Harvesters collect grapes from mature Vinery grape bushes instead of seeds.
 - Adds a Create Mixer recipe for apples into Vinery apple mash.
 - Adds Create Mechanical Press + Basin recipes for apples and apple mash into apple juice.
 - Adds Create Spout filling recipes for Vinery juice bottles.
@@ -26,7 +27,7 @@ Vinery may also require Architectury depending on the version you install.
 
 ## Install
 
-Download the jar from the Gitea or GitHub Releases page and put it in your instance's `mods` folder alongside Create and Vinery.
+Download the jar from the GitHub Releases page and put it in your instance's `mods` folder alongside Create and Vinery.
 
 If you manually drop the jar into a CurseForge profile before the mod is published on CurseForge, the CurseForge app may not list it like a normal managed mod. The jar should still load in-game, and NeoForge's Mods screen should show it.
 
@@ -44,10 +45,12 @@ On Linux or macOS:
 
 The built jar appears in `build/libs/`.
 
-## Notes
+## Automation Flow
 
 This mod intentionally bypasses Vinery's manual Grapevine Pot workflow with Create-native recipes:
 
 `grapes -> Mechanical Press over Basin -> juice fluid -> tank/pipe/spout/barrel`
+
+## Notes
 
 This is an unofficial compatibility add-on and is not affiliated with Create, NeoForge, Minecraft, or the Let's Do/Vinery team.

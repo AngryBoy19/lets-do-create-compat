@@ -5,6 +5,7 @@
 - Added Create-compatible juice fluids for Vinery apple juice and grapejuice variants.
 - Added Create compacting recipes for grapes, apples, and apple mash.
 - Added Create mixing recipe for apple mash.
+- Added Create Mechanical Harvester support for mature Vinery grape bushes.
 - Added Create filling and emptying recipes for Vinery juice bottles.
 - Added Create pipe/pump compatibility for Vinery Fermentation Barrels.
 - Added honey filling compatibility for Vinery wine bottles.

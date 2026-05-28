@@ -2,6 +2,7 @@ package com.angryjoe.letsdocreatecompat;
 
 import com.angryjoe.letsdocreatecompat.compat.VineryBarrelFluidCapability;
 import com.angryjoe.letsdocreatecompat.registry.ModFluids;
+import com.angryjoe.letsdocreatecompat.registry.ModLootModifiers;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 
@@ -11,6 +12,7 @@ public final class LetsDoCreateCompat {
 
     public LetsDoCreateCompat(IEventBus modBus) {
         ModFluids.register(modBus);
+        ModLootModifiers.register(modBus);
         modBus.addListener(VineryBarrelFluidCapability::registerCapabilities);
     }
 }

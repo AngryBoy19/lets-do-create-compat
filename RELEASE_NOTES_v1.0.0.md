@@ -16,6 +16,7 @@ Initial public release.
 - Spout: Vinery wine bottles should fill into juice bottles.
 - Item Drain: Vinery juice bottles should drain into fluid and return empty wine bottles.
 - Create pumps/pipes: fluid should fill Vinery Fermentation Barrels and support normal wine recipes.
+- Mechanical Harvester: mature Vinery grape bushes should output grapes, not grape seeds.
 
 ## Known Notes
 
