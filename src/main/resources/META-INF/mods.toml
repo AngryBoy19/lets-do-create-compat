@@ -1,0 +1,44 @@
+# Compatibility metadata for launchers and mod managers that still only inspect
+# the legacy Forge metadata filename. NeoForge 1.21 reads neoforge.mods.toml.
+modLoader = "javafml"
+loaderVersion = "${loader_version_range}"
+license = "${mod_license}"
+
+[[mods]]
+modId = "${mod_id}"
+version = "${mod_version}"
+displayName = "${mod_name}"
+authors = "AngryJoe"
+logoFile = "pack.png"
+logoBlur = false
+description = '''
+Create automation compatibility for [Let's Do] Vinery wine production.
+'''
+
+[[dependencies.${mod_id}]]
+modId = "neoforge"
+mandatory = true
+versionRange = "${neo_version_range}"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.${mod_id}]]
+modId = "minecraft"
+mandatory = true
+versionRange = "${minecraft_version_range}"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.${mod_id}]]
+modId = "create"
+mandatory = true
+versionRange = "[6.0.0,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.${mod_id}]]
+modId = "vinery"
+mandatory = true
+versionRange = "[0,)"
+ordering = "AFTER"
+side = "BOTH"

@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "vinery:taiga_grapes_white"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "lets_do_create_compat:white_taiga_grapejuice"
+    }
+  ],
+  "processing_time": 80
+}

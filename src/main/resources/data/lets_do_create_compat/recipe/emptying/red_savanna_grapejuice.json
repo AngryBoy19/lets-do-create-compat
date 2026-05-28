@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "vinery:red_savanna_grapejuice"
+    }
+  ],
+  "results": [
+    {
+      "id": "vinery:wine_bottle"
+    },
+    {
+      "amount": 250,
+      "id": "lets_do_create_compat:red_savanna_grapejuice"
+    }
+  ]
+}

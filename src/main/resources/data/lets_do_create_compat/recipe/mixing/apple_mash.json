@@ -1,0 +1,14 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "results": [
+    {
+      "id": "vinery:apple_mash"
+    }
+  ],
+  "processing_time": 80
+}

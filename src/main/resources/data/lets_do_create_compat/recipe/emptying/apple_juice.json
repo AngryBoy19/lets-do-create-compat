@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "vinery:apple_juice"
+    }
+  ],
+  "results": [
+    {
+      "id": "vinery:wine_bottle"
+    },
+    {
+      "amount": 250,
+      "id": "lets_do_create_compat:apple_juice"
+    }
+  ]
+}

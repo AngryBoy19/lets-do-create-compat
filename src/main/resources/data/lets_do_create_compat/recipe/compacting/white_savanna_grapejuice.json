@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "vinery:savanna_grapes_white"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "lets_do_create_compat:white_savanna_grapejuice"
+    }
+  ],
+  "processing_time": 80
+}

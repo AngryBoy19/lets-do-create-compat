@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "vinery:wine_bottle"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "lets_do_create_compat:red_jungle_grapejuice"
+    }
+  ],
+  "results": [
+    {
+      "id": "vinery:red_jungle_grapejuice"
+    }
+  ]
+}

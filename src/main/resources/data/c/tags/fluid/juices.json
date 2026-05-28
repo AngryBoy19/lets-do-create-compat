@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "lets_do_create_compat:apple_juice",
+    "lets_do_create_compat:flowing_apple_juice",
+    "lets_do_create_compat:red_grapejuice",
+    "lets_do_create_compat:flowing_red_grapejuice",
+    "lets_do_create_compat:white_grapejuice",
+    "lets_do_create_compat:flowing_white_grapejuice",
+    "lets_do_create_compat:red_savanna_grapejuice",
+    "lets_do_create_compat:flowing_red_savanna_grapejuice",
+    "lets_do_create_compat:white_savanna_grapejuice",
+    "lets_do_create_compat:flowing_white_savanna_grapejuice",
+    "lets_do_create_compat:red_taiga_grapejuice",
+    "lets_do_create_compat:flowing_red_taiga_grapejuice",
+    "lets_do_create_compat:white_taiga_grapejuice",
+    "lets_do_create_compat:flowing_white_taiga_grapejuice",
+    "lets_do_create_compat:red_jungle_grapejuice",
+    "lets_do_create_compat:flowing_red_jungle_grapejuice",
+    "lets_do_create_compat:white_jungle_grapejuice",
+    "lets_do_create_compat:flowing_white_jungle_grapejuice"
+  ]
+}

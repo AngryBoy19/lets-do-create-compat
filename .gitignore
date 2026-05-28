@@ -1,0 +1,26 @@
+# Gradle / build output
+.gradle/
+build/
+out/
+runs/
+
+# Local IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs and crash reports
+*.log
+crash-reports/
+
+# Built jars are uploaded to GitHub Releases, not committed to source.
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local source checkouts used during compatibility development
+create-src/
+vinery-src/
+
+# OS files
+.DS_Store
+Thumbs.db

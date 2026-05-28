@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "lets_do_create_compat:apple_juice"
+    }
+  ],
+  "processing_time": 100
+}
