@@ -1,6 +1,6 @@
 # Let's Do Create Compat
 
-![Let's Do Create Compat icon](src/main/resources/pack.png)
+
 
 An unofficial NeoForge compatibility add-on that makes [Let's Do] Vinery wine production work cleanly with Create automation.
 
